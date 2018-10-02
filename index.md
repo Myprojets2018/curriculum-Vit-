@@ -7,8 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### COMPÉTENCES
 
 Intéressée par le domaine des nouvelles technologies
+
 Suivi des nouveautés en terme de matériels informatiques
+
 Rapidité d'apprentissage des logiciels dans différents domaines
+
 Facilité d'adaptation dans le travail surtout travail en équipe
 
 ```markdown
