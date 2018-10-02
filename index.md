@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Future Développeuse Web
 
-You can use the [editor on GitHub](https://github.com/Myprojets2018/curriculum-Vitae/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Motivée et curieuse de suivre la formation de développeur WEB auprès du centre de formation CEFIM
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### COMPÉTENCES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Intéressée par le domaine des nouvelles technologies
+Suivi des nouveautés en terme de matériels informatiques
+Rapidité d'apprentissage des logiciels dans différents domaines
+Facilité d'adaptation dans le travail surtout travail en équipe
 
 ```markdown
 Syntax highlighted code block
