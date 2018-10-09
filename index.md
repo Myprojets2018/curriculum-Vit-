@@ -12,14 +12,16 @@ Suivi des nouveautés en terme de matériels informatiques
 
 Rapidité d'apprentissage des logiciels dans différents domaines
 
-Facilité d'adaptation dans le travail surtout travail en équipe
+``Facilité d'adaptation dans le travail surtout travail en équipe
 
 ```markdown
 Syntax highlighted code block
 
-# Expériences
-## vonnaissances
-### centres d'intérêts
+### Expériences
+
+
+## 
+### 
 
 - Bulleted
 - List
