@@ -29,7 +29,10 @@ Syntax highlighted code block
 (Société Saoudienne de fabrication et vente de tuyaux d’irrigation) – Tunis, 3 mois
 Vente et gestion de stock
 2003: Gestion comptable chez INOXPRO - Tunis, il y a 5 mois: Gestion des opérations comptables, recouvrées, suivies d'opérations bancaires, de la trésorerie et de la caisse.
-## 
+## Langues
+1.Italien : Bilingue lu, écrit, parlé 
+2.Arabe : Bilingue lu, écrit, parlé
+3.Anglais : niveau professionnel lu, écrit,parlé
 ### 
 Un séjour sans faille
 - puce
