@@ -28,15 +28,22 @@ Syntax highlighted code block
 2006 : Responsable administratif, commercial et financier chez TUNIS DRIP 
 (Société Saoudienne de fabrication et vente de tuyaux d’irrigation) – Tunis, 3 mois
 Vente et gestion de stock
-2003: Gestion comptable chez INOXPRO - Tunis, il y a 5 mois: Gestion des opérations comptables, recouvrées, suivies d'opérations bancaires, de la trésorerie et de la caisse.
+2003: Gestion comptable chez INOXPRO - Tunis, il y a 5 mois: Gestion des opérations comptables, recouvrées, suivies d'opérations bancaires  de la trésorerie et de
+la caisse.
+
 ## Langues
 1.Italien : Bilingue lu, écrit, parlé 
 2.Arabe : Bilingue lu, écrit, parlé
 3.Anglais : niveau professionnel lu, écrit,parlé
-### 
-Un séjour sans faille
-- puce
-- Liste
+
+### Formations 
+
+2015 : Formation en Sauveteur Secouriste du Travail au Greta de Tours (37)
+2012-2013 : Formation Assistant import-export à l'AFPA d'Olivet 
+2002 : Maîtrise en économie financière et bancaire – ESSEC (Ecole supérieure des sciences économiques et commerciales) Tunis
+1998 Baccalauréat mathématiques - Lycée Ibn Khaldoun - Radés
+
+
 
 1. Numbered
 2. List
