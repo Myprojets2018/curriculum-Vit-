@@ -12,12 +12,12 @@ Suivi des nouveautés en terme de matériels informatiques
 
 Rapidité d'apprentissage des logiciels dans différents domaines
 
-``Facilité d'adaptation dans le travail surtout travail en équipe
+Facilité d'adaptation dans le travail surtout travail en équipe
 
-```markdown
-Syntax highlighted code block
+
 
 ### Expériences
+
 2014-2017 : Agent administratif polyvalent gestion / secrétariat : accueil des parents et des élèves, prise d’appels, enregistrement des factures sur GFC, saisie des chèques et des espèces sur GTI, classement, archivage, suivi de la cantine, contrôle et modification des informations sur SIECLE et PRONOTE au Collège Léonard de Vinci à Tours. 
 2012-2013 : Stage dans le « Customer service » chez SAGA France : ouverture dossier import et export, suivi livraison-dédouanement, négociation des tarifs avec transporteurs.
 2011-2012 : Préparatrice de commande chez Amazone et Touraine Logistique
@@ -32,6 +32,7 @@ Vente et gestion de stock
 la caisse.
 
 ## Langues
+
 1.Italien : Bilingue lu, écrit, parlé 
 2.Arabe : Bilingue lu, écrit, parlé
 3.Anglais : niveau professionnel lu, écrit,parlé
@@ -43,7 +44,7 @@ la caisse.
 2002 : Maîtrise en économie financière et bancaire – ESSEC (Ecole supérieure des sciences économiques et commerciales) Tunis
 1998 Baccalauréat mathématiques - Lycée Ibn Khaldoun - Radés
 
-
+#### Loisirs
 
 1. Numbered
 2. List
