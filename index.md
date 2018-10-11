@@ -19,15 +19,24 @@ Facilité d'adaptation dans le travail surtout travail en équipe
 ### Expériences
 
 2014-2017 : Agent administratif polyvalent gestion / secrétariat : accueil des parents et des élèves, prise d’appels, enregistrement des factures sur GFC, saisie des chèques et des espèces sur GTI, classement, archivage, suivi de la cantine, contrôle et modification des informations sur SIECLE et PRONOTE au Collège Léonard de Vinci à Tours. 
+
 2012-2013 : Stage dans le « Customer service » chez SAGA France : ouverture dossier import et export, suivi livraison-dédouanement, négociation des tarifs avec transporteurs.
+
 2011-2012 : Préparatrice de commande chez Amazone et Touraine Logistique
+
 2011 : Chargée d’accueil chez Pôle Emploi, commerciale chez Ranger pour Alice
-2009-2010 : Chargée clientèle bilingue Français et Italien pour Pierre et Vacances chez Teleperformance : suivi des réservations, conseil et gestion des litiges, paiement étrangers, modification et corrections de dossiers.
+
+2009-2010 : Chargée clientèle bilingue Français et Italien pour Pierre et Vacances chez Teleperformance : suivi des 
+réservations, conseil et gestion des litiges, paiement étrangers, modification et corrections de dossiers.
+
 2008-2009: Chargée clientèle en langue italienne chez TRANSCOM et WIV– Tunis, 1 an : Conseillère clientèle, saisie des opérations techniques de télécommunications de la téléphonie fixe italienne TELE2.
+
 2007 : Déléguée commerciale chez TUMAR et chez AVON : vente d’électroménager et de produits cosmétiques
+
 2006 : Responsable administratif, commercial et financier chez TUNIS DRIP 
 (Société Saoudienne de fabrication et vente de tuyaux d’irrigation) – Tunis, 3 mois
 Vente et gestion de stock
+
 2003: Gestion comptable chez INOXPRO - Tunis, il y a 5 mois: Gestion des opérations comptables, recouvrées, suivies d'opérations bancaires  de la trésorerie et de
 la caisse.
 
@@ -46,8 +55,8 @@ la caisse.
 
 #### Loisirs
 
-1. Numbered
-2. List
+1. Tennis, marche, dance
+2. Cinéma, internet, nouvelles technologies 
 
 **Bold** and _Italic_ and `Code` text
 
