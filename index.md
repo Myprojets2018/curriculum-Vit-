@@ -44,7 +44,9 @@ la caisse.
 
 1.Italien : Bilingue lu, écrit, parlé 
 
+
 2.Arabe : Bilingue lu, écrit, parlé
+
 
 3.Anglais : niveau professionnel lu, écrit,parlé
 
