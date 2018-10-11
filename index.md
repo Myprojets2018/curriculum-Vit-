@@ -43,19 +43,25 @@ la caisse.
 ## Langues
 
 1.Italien : Bilingue lu, écrit, parlé 
+
 2.Arabe : Bilingue lu, écrit, parlé
+
 3.Anglais : niveau professionnel lu, écrit,parlé
 
 ### Formations 
 
 2015 : Formation en Sauveteur Secouriste du Travail au Greta de Tours (37)
+
 2012-2013 : Formation Assistant import-export à l'AFPA d'Olivet 
+
 2002 : Maîtrise en économie financière et bancaire – ESSEC (Ecole supérieure des sciences économiques et commerciales) Tunis
+
 1998 Baccalauréat mathématiques - Lycée Ibn Khaldoun - Radés
 
 #### Loisirs
 
 1. Tennis, marche, dance
+
 2. Cinéma, internet, nouvelles technologies 
 
 **Bold** and _Italic_ and `Code` text
