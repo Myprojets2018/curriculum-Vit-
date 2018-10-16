@@ -40,7 +40,7 @@ Vente et gestion de stock
 2003: Gestion comptable chez INOXPRO - Tunis, il y a 5 mois: Gestion des opérations comptables, recouvrées, suivies d'opérations bancaires  de la trésorerie et de
 la caisse.
 
-## Langues
+## LANGUES
 
 1.Italien : Bilingue lu, écrit, parlé 
 
@@ -50,7 +50,7 @@ la caisse.
    
 3.Anglais : niveau professionnel lu, écrit,parlé
 
-### Formations 
+### FORMATIONS
 
 2015 : Formation en Sauveteur Secouriste du Travail au Greta de Tours (37)
    
@@ -60,7 +60,7 @@ la caisse.
    
 1998 Baccalauréat mathématiques - Lycée Ibn Khaldoun - Radés
 
-#### Loisirs
+#### LOISIRS
 
 1. Tennis, marche, dance
 
@@ -70,7 +70,7 @@ la caisse.
 
 
 
-## Motivation ##
+## MOTIVATIONS ##
 
 **CEFIM est une école du web de renommée, proposant des formations qui répondent aux besoins actuels et futurs en termes de métiers dans le secteur de l’informatique.**
 
@@ -81,7 +81,7 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
-[      ]
+[ file:///C:/Users/user/Desktop/event_cefim-jpo_166798.jpg]
 
 
 [Link](url) and ![Image](src)
