@@ -81,10 +81,10 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
-[ file:///C:/Users/user/Desktop/event_cefim-jpo_166798.jpg]
 
 
-[Link](url) and ![Image](src)
+
+[https://openagenda.com/paloaltours/events/cefim-jpo](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
