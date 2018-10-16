@@ -68,6 +68,22 @@ la caisse.
 
 **Bold** and _Italic_ and `Code` text
 
+
+
+##Motivation##
+
+CEFIM est une école du web de renommée, proposant des formations qui répondent aux besoins actuels et futurs en termes de métiers dans le secteur de l’informatique.
+
+Mon parcours professionnel ainsi que celui scolaire m’ont permis d’acquérir des compétences et des connaissances dans différents domaines.
+J’ai choisis de faire une  reconversion professionnelle parceque j’ai toujours été passionnée par le métier du développeur web et  des nouvelles technologies. Mon projet futur est de créer et gérer mon propre site web de voyage.
+
+Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprentissage des logiciels, j’estime avoir les qualités requises pour intégrer la formation de développeur web.
+
+
+
+[      ]
+
+
 [Link](url) and ![Image](src)
 ```
 
