@@ -84,14 +84,14 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
-[https://openagenda.com/paloaltours/events/cefim-jpo](url) and ![Image](src)
-```
+[]https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/master/event_cefim-jpo_166798.jpgsrc)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Myprojets2018/curriculum-Vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Myprojets2018/curriculum-Vitae/settings
 
 ### COORDONNÉES ###
 
