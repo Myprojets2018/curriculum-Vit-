@@ -80,7 +80,7 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
- ![cefim logo] (https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/master/event_cefim-jpo_166798.jpg)
+ ![cefim logo] (https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/event_cefim-jpo_166798.jpg)
 
 
 
