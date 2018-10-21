@@ -3,6 +3,21 @@
 Motivée et curieuse de suivre la formation de développeur WEB auprès du centre de formation CEFIM
 
 
+
+
+
+![developpement-web2](https://user-images.githubusercontent.com/43730161/47272449-31a48680-d586-11e8-9ead-6f52f8cd0540.png)
+
+
+
+
+
+
+
+
+
+
+
 ## COMPÉTENCES
 
 Intéressée par le domaine des nouvelles technologies
@@ -80,16 +95,17 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
- ![cefim logo] (https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/event_cefim-jpo_166798.jpg)
-
-
 
 ### COORDONNÉES ###
 
 NAOUAR Amira
+
 18 Jardin G.Bouzignac
 37000 Tours
+
 Tél : (+ 33) 06 50 83 22 24
+
+
 e-mail : myrou8@gmail.com
 
 
