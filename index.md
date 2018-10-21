@@ -2,9 +2,8 @@
 
 Motivée et curieuse de suivre la formation de développeur WEB auprès du centre de formation CEFIM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### COMPÉTENCES
+## COMPÉTENCES
 
 Intéressée par le domaine des nouvelles technologies
 
@@ -16,7 +15,7 @@ Facilité d'adaptation dans le travail surtout travail en équipe
 
 
 
-### Expériences
+## Expériences
 
 2014-2017 : Agent administratif polyvalent gestion / secrétariat : accueil des parents et des élèves, prise d’appels, enregistrement des factures sur GFC, saisie des chèques et des espèces sur GTI, classement, archivage, suivi de la cantine, contrôle et modification des informations sur SIECLE et PRONOTE au Collège Léonard de Vinci à Tours. 
 
@@ -50,7 +49,7 @@ la caisse.
    
 3.Anglais : niveau professionnel lu, écrit,parlé
 
-### FORMATIONS
+## FORMATIONS
 
 2015 : Formation en Sauveteur Secouriste du Travail au Greta de Tours (37)
    
@@ -60,13 +59,11 @@ la caisse.
    
 1998 Baccalauréat mathématiques - Lycée Ibn Khaldoun - Radés
 
-#### LOISIRS
+## LOISIRS
 
 1. Tennis, marche, dance
 
 2. Cinéma, internet, nouvelles technologies 
-
-**Bold** and _Italic_ and `Code` text
 
 
 
@@ -83,16 +80,16 @@ _Dynamique, rigoureuse avec un bon niveau d’anglais, une facilité d’apprent
 
 
 
+![] https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/master/event_cefim-jpo_166798.jpgsrc)
 
-[]https://raw.githubusercontent.com/Myprojets2018/curriculum-Vitae/master/event_cefim-jpo_166798.jpgsrc)
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Myprojets2018/curriculum-Vitae/settings
 
 ### COORDONNÉES ###
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+NAOUAR Amira
+18 Jardin G.Bouzignac
+37000 Tours
+Tél : (+ 33) 06 50 83 22 24
+e-mail : myrou8@gmail.com
+
+
