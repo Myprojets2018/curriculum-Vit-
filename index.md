@@ -76,7 +76,7 @@ la caisse.
 
 ## LOISIRS
 
-1. Tennis, marche, dance
+1. Tennis, marche, danse
 
 2. Cinéma, internet, nouvelles technologies 
 
