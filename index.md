@@ -22,7 +22,7 @@ Motivée et curieuse de suivre la formation de développeur WEB auprès du centr
 
 Intéressée par le domaine des nouvelles technologies
 
-Suivi des nouveautés en terme de matériels informatiques
+Suivi des nouveautés dans le domaine de l'informatique et du web
 
 Rapidité d'apprentissage des logiciels dans différents domaines
 
