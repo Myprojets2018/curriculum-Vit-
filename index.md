@@ -32,7 +32,7 @@ Facilité d'adaptation dans le travail surtout travail en équipe
 
 ## Expériences
 
-2014-2017 : Agent administratif polyvalent gestion / secrétariat : accueil des parents et des élèves, prise d’appels, enregistrement des factures sur GFC, saisie des chèques et des espèces sur GTI, classement, archivage, suivi de la cantine, contrôle et modification des informations sur SIECLE et PRONOTE au Collège Léonard de Vinci à Tours. 
+2014-2018 : Agent administratif polyvalent gestion / secrétariat : accueil des parents et des élèves, prise d’appels, enregistrement des factures sur GFC, saisie des chèques et des espèces sur GTI, classement, archivage, suivi de la cantine, contrôle et modification des informations sur SIECLE et PRONOTE au Collège Léonard de Vinci à Tours. 
 
 2012-2013 : Stage dans le « Customer service » chez SAGA France : ouverture dossier import et export, suivi livraison-dédouanement, négociation des tarifs avec transporteurs.
 
